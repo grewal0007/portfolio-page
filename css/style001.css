@@ -70,7 +70,7 @@ li a:active {
 
 /* Show case part,here is my presentiation  */
 .bk {
-	background-image: url("mars1.png");
+	background-image: url("../img/mars1.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: scroll;
